@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652995860146",
+    "project_id": "vehicle-help-baa79",
+    "storage_bucket": "vehicle-help-baa79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652995860146:android:c03d4fe009aa327fbddbab",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_help_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH_2Hc4a6TtRwB_qDjtCT8KdhN4W4zato"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
